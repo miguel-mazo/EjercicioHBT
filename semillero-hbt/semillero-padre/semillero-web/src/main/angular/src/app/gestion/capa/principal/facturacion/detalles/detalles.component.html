@@ -1,0 +1,17 @@
+<!--<p>
+  detalles works!
+</p>-->
+
+<h3>Detalles del pedido</h3>
+<p>{{ mensaje }}</p>
+<ul *ngIf="detalles.length > 0; else empty">
+  <li *ngFor="let det of detalles">
+    <span> {{ det.detalleId | uppercase }}</span>
+    <span>{{ det.cantidad }}</span>
+    <input value="Borrar" type="button" (click)="borrar($event, det)" />
+  </li>
+</ul>
+<ng-template #empty>
+  <i>Sin datos</i>
+</ng-template>
+<pre>{{ detalles | json }}</pre>

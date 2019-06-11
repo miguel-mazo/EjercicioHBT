@@ -1,0 +1,120 @@
+2019-04-20 12:27:36,453 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-20 12:29:10,007 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hbt.semillero.servicios:semillero-servicios:1.0-SNAPSHOT @ C:\Users\Miguel\Desktop\Ejercicio HBT\semillero-hbt\semillero-padre\semillero-servicios\pom.xml.
+2019-04-20 12:29:30,966 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /semillero-servicios/src/main/java
+2019-04-20 12:29:30,968 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /semillero-servicios/src/main/resources
+2019-04-20 12:29:30,971 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /semillero-servicios/src/test/java
+2019-04-20 12:29:32,050 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 64 sec
+2019-04-20 12:29:39,993 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-20 12:29:40,008 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-20 12:29:40,085 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-04-21 16:33:59,404 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-22 20:45:29,063 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-22 21:15:34,977 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-23 13:30:47,026 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-28 18:15:10,043 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-04 01:22:24,230 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-04 01:39:46,811 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-04 01:50:30,273 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-13 17:42:27,117 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-14 09:48:02,070 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-14 15:40:02,068 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-14 16:57:31,384 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-14 16:59:56,206 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 16:59:56,214 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 16:59:56,246 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:00:47,685 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:00:47,723 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:00:47,742 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:02:03,865 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:02:03,867 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:02:03,874 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:05:56,944 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:05:56,946 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:05:56,953 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:07:13,553 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:07:13,555 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:07:13,561 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:09:38,018 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:09:38,021 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:09:38,032 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:10:00,084 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:10:00,099 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:10:00,124 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 17:47:47,370 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 17:47:47,372 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 17:47:47,412 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 18:04:32,636 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 18:04:32,808 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 18:04:32,840 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 18:18:42,374 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 18:18:42,435 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 18:18:42,540 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 18:32:15,889 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 18:32:15,992 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 18:32:16,010 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 18:32:17,294 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 18:32:17,296 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 18:32:17,412 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:03:49,549 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:03:49,552 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:03:49,623 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:08:05,834 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:08:05,835 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:08:05,880 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:13:30,893 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:13:30,942 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:13:31,051 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:34:27,598 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:34:27,601 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:34:27,650 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:39:23,588 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:39:23,626 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:39:23,640 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:40:13,427 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:40:13,429 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:40:13,436 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:40:14,484 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:40:14,525 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:40:14,551 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:41:25,948 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:41:25,949 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:41:25,979 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:55:25,758 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:55:25,776 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:55:25,823 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-14 19:55:32,409 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-14 19:55:32,410 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-14 19:55:32,415 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 13:42:50,570 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-16 15:54:21,174 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 15:54:21,232 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 15:54:21,317 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 17:11:36,055 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 17:11:36,260 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 17:11:36,279 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 17:27:47,148 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 17:27:47,150 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 17:27:47,195 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 17:46:41,412 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 17:46:41,511 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 17:46:41,627 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 18:41:29,455 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 18:41:29,756 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 18:41:29,870 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 18:52:49,887 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 18:52:50,254 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 18:52:50,444 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 19:03:43,445 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-16 19:03:43,512 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-16 19:03:43,635 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-16 23:15:18,663 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-18 19:06:15,060 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-18 19:07:05,155 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-18 19:07:05,179 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-18 19:07:05,261 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2019-05-18 19:15:03,184 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-18 19:16:27,125 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-22 02:10:09,346 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-23 17:53:57,164 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-24 19:49:18,199 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-29 19:28:43,046 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

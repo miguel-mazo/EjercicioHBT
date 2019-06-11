@@ -1,0 +1,71 @@
+<!--<p>
+  facturacion works!
+</p>-->
+<span>Fecha: <b>{{fechaActual}}</b></span>
+<table>
+  
+  <tr>
+    <td>Bebidas:</td>
+    <td>Cantidad:</td>
+  </tr>
+
+  <tr>
+    <td>
+      <select [(ngModel)]="bebidaObj" ngChange="consultarBebidas()">
+        <option *ngFor="let bebida of bebidas" [ngValue]="bebida">{{bebida.bebidaNombre}}</option>
+      </select>
+    </td>
+    <td><input type="text" size="1" style="text-align:center"></td>
+    <td><input value="Ingresar" type="button" (click)="ingresarBebida()"></td>
+  </tr>
+
+  <tr>
+    <td>Platos</td>
+    <td>Cantidad</td>
+  </tr>
+
+  <tr>
+    <td>
+      <select [(ngModel)]="platoObj" ngChange="consultarPlatos()">
+        <option *ngFor="let plato of platos" [ngValue]="plato">{{plato.platoNombre}}</option>
+      </select>
+    </td>
+    <td><input type="text" size="1" style="text-align:center"></td>
+    <td><input value="Ingresar" type="button" (click)="ingresarPlato()"></td>
+  </tr>
+
+  <tr>
+    <td>
+      <label>Tipo de pedido: </label>
+      <input name="Pedido" value="1" type="radio" [(ngModel)]="facturaDetalles.tipoPedido">
+      <i>Sitio</i>
+      <input name="Pedido" value="0" type="radio" [(ngModel)]="facturaDetalles.tipoPedido">
+      <i>Para llevar</i>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <label>Método de pago: </label>
+      <input name="metodoPago" value="1" type="radio" [(ngModel)]="facturaDetalles.metodoPago">
+      <i>Efectivo</i>
+      <input name="metodoPago" value="0" type="radio" [(ngModel)]="facturaDetalles.metodoPago">
+      <i>Tarjeta</i>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td></td>
+    <td><input value="Generar factura" type="button" (click)="generarFactura()"></td>
+  </tr>
+
+</table>
+
+<pre>{{ bebidaObj | json }}</pre>
+<pre>{{ platoObj | json }}</pre>
+<pre>{{ bebidas | json }}</pre>
+<pre>{{ facturaDetalles | json }}</pre>
+<pre>{{ mensaje | json }}</pre>
+
+<app-facturacion-detalles [detalles] = "facturaDetalles.detalles" (idcliente)="actualizar($event)"></app-facturacion-detalles>
